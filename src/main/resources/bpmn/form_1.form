@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Name",
+      "type": "textfield",
+      "id": "Field_1n8ec95",
+      "key": "name"
+    }
+  ],
+  "type": "default",
+  "id": "form_1_apps"
+}

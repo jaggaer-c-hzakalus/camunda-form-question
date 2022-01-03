@@ -1,0 +1,11 @@
+server:
+  port: 5555
+
+camunda:
+  bpm:
+    admin-user:
+      id: admin
+      password: admin
+    auto-deployment-enabled: false
+    default-serialization-format: application/json
+
